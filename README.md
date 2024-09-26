@@ -1,0 +1,1 @@
+This project is about analysis of data provided which included orders placed by customers , their location,what they ordered,their payment methods and sellers information. Then using tools like pandas , matplotlib,seaborn and my sql we analysed data.
